@@ -16,6 +16,10 @@ The analysis of ride-sharing data by city type shows that total rides, total dri
   - Urban has the lowest fare per ride among city types and about $6 lower than suburban's and $10 lower than rural's
   - Urban has the lowest fare per driver among city types and about $2 lower than suburban's and $7 lower than rural's
 
+Below is a screenshot of the Total Fare per city type:
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/110554264/191358839-d8c4f44e-6e7d-47a6-803c-797dcde3f3ff.png)
+
 ## Summary
 For addressing any disparities among the city types, we would recommend the following:
 - Attract more drivers to ride-sharing service in rural cities
